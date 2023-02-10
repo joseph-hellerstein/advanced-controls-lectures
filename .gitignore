@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 ~$*.pptx
+.DS_Store*
+adv/
 
 # C extensions
 *.so
