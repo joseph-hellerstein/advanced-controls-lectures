@@ -10,6 +10,7 @@ pandas
 pip>20
 pylint
 python-libsbml
+scikit-learn
 seaborn
 symmathSBML
 #slycot
