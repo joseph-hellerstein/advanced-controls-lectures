@@ -1,4 +1,5 @@
 numpy
+brotli
 build
 coverage
 control
